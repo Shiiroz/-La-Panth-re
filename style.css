@@ -1055,3 +1055,6 @@ h4 {
     max-width: 42rem;
     margin:auto;
 }
+.img-responsive{
+    margin: auto;
+}
