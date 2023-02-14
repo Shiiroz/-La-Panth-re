@@ -1041,3 +1041,17 @@ h4 {
         text-align: center;
     }
 }
+.tex{
+    font-size: 17px;
+    max-width: 51rem;
+    margin: auto;
+}
+.tex>span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.port__tit-h2{
+    max-width: 42rem;
+    margin:auto;
+}
